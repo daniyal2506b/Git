@@ -1,0 +1,49 @@
+GUI
+1) cmd 
+git set/initilazation
+2) git init 
+git 's file add in our git 
+3)git add .
+finally saved your file 
+3)git commit -m "Saved"
+how many time the file is saved
+4)git log
+show your status / your branch name 
+5)git status 
+=========== this is additional ================
+branch
+show all branches
+6)git branch -a
+To create a branch:
+7)git branch yourbranchname
+switched branch 
+8)git checkout yourbranchname
+=======================================
+
+Note:
+remove User
+strat> credentialmanager>WindowCredential>gituser(select ) > remove
+===========
+to check user name / set username 
+git config --global user.name
+git config --global user.name "yourname"
+*) To check the email
+git config --global user.mail
+*)TO set the your E-mail
+git config --global user.mail "sms2000n@gmail.com"
+====================================================
+to set local gi into github
+
+git remote add origin https://github.com/SyedMurtazaSaeed/01-FEB-E-PROJECT-2409A.git
+git branch -M main
+git push -u origin main
+what is repository  , Repository like a folder 
+================ then see your github work in hit =
+>git pull
+==============================================================
+if want to see github work on git then use pull command
+git pull
+=============
+git clone <givenyourRepositoryPath>
+
+
